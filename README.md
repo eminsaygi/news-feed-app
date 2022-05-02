@@ -22,13 +22,18 @@ I made this app in four different architectures: `MVC`  `Dependency injection` `
 
 ## Screen Shots
 
-Home Screen | Search Modal
- | Detail Screen  | Share Modal |
-  Webview Modal | Favorites Screen 
-:-------------------------: | :-------------------------: | :-------------------------: | :-------------------------: | :-------------------------: | :-------------------------: 
-![Preview](/Images/Home.png) | ![Preview](/Images/Search.png) | ![Preview](/Images/Detail.png) | ![Preview](/Images/Share.png) | ![Preview](/Images/Webview.png) | ![Preview](/Images/Favorites.png)
+Home Screen | Search Modal 
+:-------------------------: | :-------------------------: 
+![Preview](/Images/Home.png) | ![Preview](/Images/Search.png)
+
+Detail Screen  | Share Modal 
+:-------------------------: | :-------------------------:
+![Preview](/Images/Detail.png) | ![Preview](/Images/Share.png)
 
 
+Webview Modal | Favorites Screen 
+:-------------------------: | :-------------------------:
+![Preview](/Images/Webview.png) | ![Preview](/Images/Favorites.png)
 # Building
 The app uses CocoaPods to manage dependencies, so be sure and complete the following steps to build and run the app.
 
