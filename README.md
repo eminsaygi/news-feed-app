@@ -26,9 +26,7 @@ Home Screen | Search Modal | Detail Screen  | Share Modal | Webview Modal | Favo
 :-------------------------: | :-------------------------: |
  :-------------------------: | :-------------------------: |
   :-------------------------: | :-------------------------: 
-![Preview](/Images/Home.png) | ![Preview](/Images/Search.png) |
- ![Preview](/Images/Detail.png) | ![Preview](/Images/Share.png) |
-  ![Preview](/Images/Webview.png) | ![Preview](/Images/Favorites.png)
+![Preview](/Images/Home.png) | ![Preview](/Images/Search.png) | ![Preview](/Images/Detail.png) | ![Preview](/Images/Share.png) | ![Preview](/Images/Webview.png) | ![Preview](/Images/Favorites.png)
 
 
 # Building
