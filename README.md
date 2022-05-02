@@ -1,7 +1,7 @@
 # News Feed App 📙
 
 > Simple news feed application in Swift for iOS 15.4
-I made this app in four different architectures: `MVC`  `Dependency injection` `Clean Swift`
+> I made this app in four different architectures: `MVC`  `Dependency injection` `Clean Swift`
 
 ## Features
 
@@ -27,6 +27,7 @@ I made this app in four different architectures: `MVC`  `Dependency injection` `
 - **Alamofire** library will be used
 - **Kingfisher** library will be used
 - **MVVM** architecture will be used
+- **Unit && UI** test will be used
 
 
 ## Screenshots
