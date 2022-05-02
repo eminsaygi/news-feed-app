@@ -1,9 +1,10 @@
 # News Feed App 📙
 
-> Simple news feed application in Swift for iOS 15.
+> Simple news feed application in Swift for iOS 15.4
 I made this app in four different architectures: `MVC`  `Dependency injection` `Clean Swift`
 
 ## Features
+
 - **View a list** of the given news articles
 - **Mark favorite articles** for quick access later
 - **View only favorite** news articles
@@ -12,6 +13,7 @@ I made this app in four different architectures: `MVC`  `Dependency injection` `
 
 
 ## Credits
+
 * API: https://newsapi.org
 
 ## Libraries used
@@ -20,20 +22,27 @@ I made this app in four different architectures: `MVC`  `Dependency injection` `
 - RealmSwift
 - Toast-Swift
 
-## Screen Shots
+## What awaits us in the next version!!
 
-Home Screen | Search Modal 
+- **Alamofire** library will be used
+- **Kingfisher** library will be used
+- **MVVM** architecture will be used
+
+
+## Screenshots
+
+Home Screen | Search Component 
 :-------------------------: | :-------------------------: 
 ![Preview](/Images/Home.png) | ![Preview](/Images/Search.png)
 
-Detail Screen  | Share Modal 
+Detail Screen  | Share Component 
 :-------------------------: | :-------------------------:
 ![Preview](/Images/Detail.png) | ![Preview](/Images/Share.png)
 
-
-Webview Modal | Favorites Screen 
+Webview Component | Favorites Screen 
 :-------------------------: | :-------------------------:
 ![Preview](/Images/Webview.png) | ![Preview](/Images/Favorites.png)
+
 # Building
 The app uses CocoaPods to manage dependencies, so be sure and complete the following steps to build and run the app.
 
