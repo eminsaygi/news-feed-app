@@ -22,9 +22,9 @@ I made this app in four different architectures: `MVC`  `Dependency injection` `
 
 ## Screen Shots
 
-IOS Emulator | Android Emulator | Android Emulator  | Android Emulator | Android Emulator | Android Emulator | Android Emulator 
-:-------------------------: | :-------------------------: | :-------------------------: | :-------------------------: | :-------------------------: | :-------------------------: | :-------------------------:
-![Preview](/assets/img/iosGif.gif) | ![Preview](/assets/img/AndroidGif.gif)
+Home Screen | Search Modal | Detail Screen  | Share Modal | Webview Modal | Favorites Screen 
+:-------------------------: | :-------------------------: | :-------------------------: | :-------------------------: | :-------------------------: | :-------------------------: 
+![Preview](/Images/Home.png) | ![Preview](/Images/Search.png) | ![Preview](/Images/Detail.png) | ![Preview](/Images/Share.png) | ![Preview](/Images/Webview.png) | ![Preview](/Images/Favorites.png)
 
 
 # Building
